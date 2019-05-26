@@ -8,3 +8,5 @@ test version confilt
 new add
 
 sout
+
+push new
